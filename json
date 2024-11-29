@@ -4,3 +4,37 @@
     "latitude": 12.971598,
     "longitude": 77.594566
 }
+{
+    "name": "Greenwood High",
+    "address": "123 Main Street",
+    "latitude": 12.971598,
+    "longitude": 77.594566
+}
+{
+    "message": "School added successfully",
+    "schoolId": 1
+}
+{
+    "error": "All fields are required."
+}
+[
+    {
+        "id": 1,
+        "name": "Greenwood High",
+        "address": "123 Main Street",
+        "latitude": 12.971598,
+        "longitude": 77.594566,
+        "distance": 0.5
+    },
+    {
+        "id": 2,
+        "name": "DPS School",
+        "address": "45 North Avenue",
+        "latitude": 12.975556,
+        "longitude": 77.609825,
+        "distance": 2.3
+    }
+]
+{
+    "error": "User latitude and longitude are required."
+}
